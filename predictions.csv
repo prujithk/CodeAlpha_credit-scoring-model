@@ -1,0 +1,4 @@
+checking_account_status,duration_months,credit_history,purpose,credit_amount,savings_account,employment_since,installment_rate,personal_status_sex,other_debtors,residence_since,property,age,other_installment_plans,housing,existing_credits,job,dependents,telephone,foreign_worker,P(Bad Credit),Risk Label,Risk Tier
+A14,12,A34,A42,2000,A65,A75,2,A93,A101,4,A121,45,A143,A152,1,A173,1,A192,A201,0.0162,GOOD,Low Risk
+A11,36,A32,A40,8500,A61,A72,3,A92,A101,2,A123,28,A141,A151,2,A172,2,A191,A201,0.9517,BAD,Very High Risk
+A11,60,A30,A49,18000,A61,A71,4,A93,A102,1,A124,22,A141,A151,3,A171,2,A191,A201,0.9888,BAD,Very High Risk
